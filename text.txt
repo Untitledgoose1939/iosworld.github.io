@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  
+<body>
+    <h1>GeeksforGeeks</h1>
+    <!--Paragraph Tag -->
+    <p>This is normal paragraph text</p>
+  
+    <!--CSS Style used in big Tag -->
+    <big style="font-size:40px; 
+                font-weight:bold; 
+                color:green; ">
+       Using CSS style in big Tag
+    </big>
+</body>
+  
+</html
